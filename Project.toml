@@ -3,7 +3,11 @@ uuid = "14dca611-7bc7-45f2-b5e0-b084d411fb9a"
 authors = ["bingyenufe <121657961@163.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
 [compat]
+Random = "1.11.0"
 julia = "1.6.7"
 
 [extras]
